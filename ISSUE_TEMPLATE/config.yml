@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Security Report
+    url: mailto:admin@nexment.in
+    about: Report security vulnerabilities privately.
+
+  - name: Nexment Website
+    url: https://nexment.in
+    about: Visit the official Nexment website.
