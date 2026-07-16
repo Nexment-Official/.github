@@ -22,16 +22,6 @@ Every project we create is guided by a simple philosophy:
 
 ---
 
-## Current Projects
-
-### Nexment CLI
-
-An intent-based developer command-line interface designed to simplify everyday development workflows with a clean, consistent, and intuitive experience.
-
-More projects will be introduced as they mature.
-
----
-
 ## Community
 
 Nexment is more than code—it's a community of people who enjoy building, learning, and improving software together.
